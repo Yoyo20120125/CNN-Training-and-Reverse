@@ -1,6 +1,6 @@
 # CNN-Training-and-Reverse
 #### Beijing No.8 High School 2025 Research based learning: CNN Training and Reverse
-###### By: 宋博睿, 杨沐岩, 马晨哲, 郭雨鑫,
+###### By: 宋博睿, 杨沐岩, 马晨哲, 郭雨鑫.
 #### On `Linux(Ubuntu)` `Jupyter Notebook`.
 #### `Anaconda`
 #### Pytorch Version:
